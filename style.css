@@ -10,7 +10,7 @@ body {
 }
 header .main-menu {
     height:10%;
-   
+    margin: 0;
 }
 header .main-menu > li {
     display: inline-block;
