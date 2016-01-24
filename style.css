@@ -22,11 +22,11 @@ header .main-menu > li {
     margin-top:0;
     float:left;
     list-style: none; 
-    border-bottom: 4px solid darkorange;
-    
+    border-bottom: 5px solid darkorange;
+     
 }
 header .main-menu > li:hover {
-   border-bottom: 4px solid black; 
+   border-bottom: 5px solid black; 
 }
 header .main-menu a {
     position: relative;
@@ -56,4 +56,13 @@ header .main-menu li:last-child {
     float:right;
 }
 
-
+.jumbotron {
+ border-bottom: 5px solid darkorange;
+  background-image: url(img/pascal1.jpg);
+  height: 700px;
+  background-repeat: repeat-y;
+  background-size: cover;
+  bottom: 100px;
+    position: inherit;
+    
+}
