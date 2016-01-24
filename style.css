@@ -21,6 +21,9 @@ header .main-menu > li {
     border-bottom: 4px solid darkorange;
     
 }
+header .main-menu > li:hover {
+   border-bottom: 4px solid black; 
+}
 header .main-menu a {
     position: relative;
     display: block;
