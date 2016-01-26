@@ -13,7 +13,7 @@ body {
     src: url(9142.otf);
 }
 header .main-menu {
-    height:10%;
+    height:93px;
     margin: 0;
 }
 header .main-menu > li {
@@ -57,12 +57,12 @@ header .main-menu li:last-child {
 }
 
 .jumbotron {
- border-bottom: 5px solid darkorange;
+  border-bottom: 4px solid darkorange;
   background-image: url(img/pascal1.jpg);
   height: 700px;
   background-repeat: repeat-y;
   background-size: cover;
   bottom: 100px;
-    position: inherit;
+  position: inherit;
     
 }
