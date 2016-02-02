@@ -59,7 +59,7 @@ header .main-menu li:last-child {
 .jumbotron {
   border-bottom: 4px solid darkorange;
   background-image: url(img/pascal1.jpg);
-  height: 500px;
+  height: 150px;
  background-repeat: repeat-y;
   background-size: cover;
   bottom: 100px;
