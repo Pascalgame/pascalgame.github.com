@@ -76,4 +76,8 @@ body {
 .headhesive--stick {
     transform: translateY(0);
     background: white;
+    
+}
+.headhesive--unstick {
+    display: none;
 }
