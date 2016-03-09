@@ -12,11 +12,11 @@ body {
     font-family: "Open Sans";
     src: url(9142.otf);
 }
-header .main-menu {
+.header .main-menu {
     height:93px;
     margin: 0;
 }
-header .main-menu > li {
+.header .main-menu > li {
     display: inline-block;
     position: relative;
     margin-top:0;
@@ -25,10 +25,10 @@ header .main-menu > li {
     border-bottom: 5px solid darkorange;
      
 }
-header .main-menu > li:hover {
+.header .main-menu > li:hover {
    border-bottom: 5px solid black; 
 }
-header .main-menu a {
+.header .main-menu a {
     position: relative;
     display: block;
     padding:30px;
@@ -40,19 +40,19 @@ header .main-menu a {
     text-align: center;
     
     }
-header .main-menu a:hover {
+.header .main-menu a:hover {
     background: darkorange;
     color:white;
 }
-header .main-menu li:nth-child(2) {
+.header .main-menu li:nth-child(2) {
     margin-left:10%;
 }
-header .main-menu li:first-child {
+.header .main-menu li:first-child {
     margin:0;
     height:90px;
 }
 
-header .main-menu li:last-child {
+.header .main-menu li:last-child {
     float:right;
 }
 
@@ -67,7 +67,13 @@ header .main-menu li:last-child {
     background-attachment: fixed; 
 }
 
-
-
-
- 
+.headhesive {
+   position: fixed;
+    width: 100%;
+    transform: translateY(-100%);
+    transition: 1s;
+}
+.headhesive--stick {
+    transform: translateY(0);
+    background: white;
+}
