@@ -87,6 +87,7 @@ body {
     -webkit-transition: 0.2s;
     transition: 0.2s;
 }
+/* FOOTER FOOTERFOOTERFOOTERFOOTERFOOTERFOOTERFOOTERFOOTERFOOTERFOOTERFOOTERFOO */
 footer {
     border-top: 2px solid darkorange;
     background:-webkit-linear-gradient(top, #a5a5a5 0%, #c9c9c9 100%);
@@ -110,7 +111,7 @@ footer li {
 }
 footer a {
      text-decoration: none;
-     color:#5D2D44;
+     color:#335baa;
      font-size:12px;
      font-weight: bold;
      font-family: Arial, sans-serif;
@@ -119,9 +120,8 @@ footer a {
 footer a:hover {
     font-weight: bolder;
     color: #911E42;
-    
-   
-}
+    transition: 0.5s;
+    }
 footer p {
     text-align: right;
     font-family: Comic Sans, Comic Sans MS, cursive;
@@ -141,7 +141,7 @@ footer h4 {
     padding-left:20px;
     font-family: Comic Sans, Comic Sans MS, cursive;
     font-size:20px;
-    color:#5D2D44;
+    color:#335baa;
 }
 footer span {
     color:#15001A;
@@ -245,6 +245,7 @@ footer span a {
 ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
 */
 .fishki {
+    height: 600px;
     padding-top: 20px;
     background: #eee;
 }
@@ -267,4 +268,45 @@ footer span a {
     font-size: 16px;
     color:#15001A;
     padding-left:30px;
+    
+}
+/* DEVELOPERS 
+DEVELOPERS 
+DEVELOPERS 
+DEVELOPERS 
+DEVELOPERS 
+DEVELOPERS 
+DEVELOPERS 
+*/
+#developers {
+    padding-top: 10px;
+    background: #eee;
+    height: 600px;
+}
+.developers img {
+         float:right; 
+    margin-top: 150px;
+    margin-right: 200px;
+}
+
+.developers h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    color:#335baa;
+    text-align: center;
+}
+.developers p {
+    font-family: "Comic Sans" , "Comic Sans MS" , cursive;
+    font-size: 16px;
+    color:#15001A;
+    padding-left:30px;
+}
+.developers li {
+    list-style: none;
+    padding:20px;
+    color:#335baa;
+    font-family: "Comic Sans" , "Comic Sans MS" , cursive;
+    font-size: 16px;
+    font-weight: 500;
 }
