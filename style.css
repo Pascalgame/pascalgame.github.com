@@ -59,7 +59,7 @@ body {
 .jumbotron {
   border-bottom: 4px solid darkorange;
   background-image: url(img/pascal1.jpg);
-  height: 150px;
+  height: 280px;
  background-repeat: repeat-y;
   background-size: cover;
   bottom: 100px;
@@ -156,3 +156,112 @@ footer span a {
     font-family: Comic Sans, Comic Sans MS, cursive;
     font-size:14px;
     }
+/* ПРО ПАСКАЛЬ ГЛАВНОЕ
+ПРО ПАСКАЛЬ ГЛАВНОЕ 
+ПРО ПАСКАЛЬ ГЛАВНОЕ 
+ПРО ПАСКАЛЬ ГЛАВНОЕ 
+ПРО ПАСКАЛЬ ГЛАВНОЕ 
+ПРО ПАСКАЛЬ ГЛАВНОЕ 
+*/
+.aboutpascal {
+    color:#15001A;
+    background: -webkit-linear-gradient(top,white,#eee);
+    background: linear-gradient(to bottom,white,#eee);
+    padding-bottom: 20px;
+}
+.aboutpascal h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    color:#335baa;
+    text-align: center;
+}
+.aboutpascal p {
+     font-family: "Comic Sans" , "Comic Sans MS" , cursive;
+    font-size: 16px;
+    color:#15001A;
+    padding-left:30px;
+}
+.aboutpascal a {
+    color:darkorange;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    font-size:14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.aboutpascal img {
+    float: right;
+    height: 500;
+    width: 700;
+}
+.aboutpascal h4 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color:#335baa;
+    padding-left:90px;
+}
+/* ПРО ПАСКАЛЬ ОСОБЛИВОСТІ
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+*/
+.advantages {
+    height: 600px;
+    padding-top: 20px;
+    background: #eee;
+}
+.advantages img {
+    float: left;
+    height: 500;
+    width: 700;
+    padding-top: 50px;
+    padding-right: 5px;
+}
+.advantages h4 {
+    text-align: right;
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color:#335baa;
+    padding-right:90px;
+}
+.advantages p {
+    
+     font-family: "Comic Sans" , "Comic Sans MS" , cursive;
+    font-size: 16px;
+    color:#15001A;
+    padding-left:30px;
+}
+/* ПРО ПАСКАЛЬ ОСОБЛИВОСТІ
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+ПРО ПАСКАЛЬ ОСОБЛИВОСТІ 
+*/
+.fishki {
+    padding-top: 20px;
+    background: #eee;
+}
+.fishki img {
+    margin-top: 55px;
+    float: right;
+    height: 500;
+    width: 700;
+}
+.fishki h4 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color:#335baa;
+    padding-left:90px;
+}
+.fishki p {
+    font-family: "Comic Sans" , "Comic Sans MS" , cursive;
+    font-size: 16px;
+    color:#15001A;
+    padding-left:30px;
+}
