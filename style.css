@@ -355,7 +355,7 @@ DEVELOPERS
     }
 .donwload {
     text-align: center;
-    margin-top:-50px;
+    padding-top:50px;
     background: #eee;
 }
 .donwload h4 {
@@ -366,6 +366,7 @@ DEVELOPERS
    
         text-align: center;
 }
+
 .donwload a {
     
     
